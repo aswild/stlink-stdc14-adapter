@@ -192,7 +192,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/93d38063-7088-43db-be62-42919838833a")
 		(sheetname "/")
-		(sheetfile "stlink-stdc14-idc-adapter.kicad_sch")
+		(sheetfile "stlink-stdc14-adapter.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -353,7 +353,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/b5714d5d-54b2-49b9-a9be-96f58e322283")
 		(sheetname "/")
-		(sheetfile "stlink-stdc14-idc-adapter.kicad_sch")
+		(sheetfile "stlink-stdc14-adapter.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -514,7 +514,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/aabdd935-7d8b-4345-9224-797d017910d6")
 		(sheetname "/")
-		(sheetfile "stlink-stdc14-idc-adapter.kicad_sch")
+		(sheetfile "stlink-stdc14-adapter.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -635,7 +635,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/05e4db73-0c0a-4b17-956e-aa13b24ae104")
 		(sheetname "/")
-		(sheetfile "stlink-stdc14-idc-adapter.kicad_sch")
+		(sheetfile "stlink-stdc14-adapter.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -898,7 +898,7 @@
 		(property ki_fp_filters "PinHeader?2x07?P1.27mm*")
 		(path "/cb618763-e19a-48a2-87b3-9e0a151126a1")
 		(sheetname "/")
-		(sheetfile "stlink-stdc14-idc-adapter.kicad_sch")
+		(sheetfile "stlink-stdc14-adapter.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1353,7 +1353,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/5a1ee1a4-e2ef-4cbc-98e6-d66dc219edab")
 		(sheetname "/")
-		(sheetfile "stlink-stdc14-idc-adapter.kicad_sch")
+		(sheetfile "stlink-stdc14-adapter.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1479,7 +1479,7 @@
 		(property ki_fp_filters "IDC*Header*P2.54mm* PinHeader*2x10*P2.54mm*")
 		(path "/33369374-901d-4294-b974-c1bd4d8457bc")
 		(sheetname "/")
-		(sheetfile "stlink-stdc14-idc-adapter.kicad_sch")
+		(sheetfile "stlink-stdc14-adapter.kicad_sch")
 		(units
 			(unit
 				(name "A")

@@ -2220,7 +2220,7 @@
 			(uuid "0d6b8b4a-c1c5-48db-9245-a85eacabf7cc")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "J3")
 					(unit 1)
@@ -2357,7 +2357,7 @@
 			(uuid "cd1a7460-38f6-46b5-bd29-8bf757d5a6b2")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "J2")
 					(unit 1)
@@ -2435,7 +2435,7 @@
 			(uuid "ce0a32b2-395b-4c58-97a2-8fe7b16fde94")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "#PWR07")
 					(unit 1)
@@ -2513,7 +2513,7 @@
 			(uuid "c1130b1d-7e52-4c0b-a337-1dfc3c5e3d1a")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "#PWR05")
 					(unit 1)
@@ -2626,7 +2626,7 @@
 			(uuid "fcc7cfc1-57ab-4b48-8439-f05f4be7868c")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "H3")
 					(unit 1)
@@ -2704,7 +2704,7 @@
 			(uuid "975ea948-5bcf-4765-b05f-2df4fdfe9819")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "#PWR02")
 					(unit 1)
@@ -2817,7 +2817,7 @@
 			(uuid "84fa65bf-f63a-4c5d-bb3f-f4ce0c824138")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "H1")
 					(unit 1)
@@ -2930,7 +2930,7 @@
 			(uuid "7a8c47e7-0a48-48cc-a381-3f886944946a")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "H4")
 					(unit 1)
@@ -3043,7 +3043,7 @@
 			(uuid "40f98f2e-8ca9-4b8c-9fc2-c3f0b17012e4")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "H2")
 					(unit 1)
@@ -3121,7 +3121,7 @@
 			(uuid "becf17a3-059f-4bc7-93d4-06ce4bf24db4")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "#PWR04")
 					(unit 1)
@@ -3199,7 +3199,7 @@
 			(uuid "170f7755-4f65-411d-b4c4-59b5de85c263")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "#PWR03")
 					(unit 1)
@@ -3316,7 +3316,7 @@
 			(uuid "c87b5b04-8981-4d5d-950e-592855c53402")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "J1")
 					(unit 1)
@@ -3394,7 +3394,7 @@
 			(uuid "6fd55653-6127-4837-8444-40bf08b1242a")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "#PWR01")
 					(unit 1)
@@ -3472,7 +3472,7 @@
 			(uuid "f833855f-373f-4ac3-b03e-79063c7e33af")
 		)
 		(instances
-			(project "stlink-stdc14-idc-adapter"
+			(project "stlink-stdc14-adapter"
 				(path "/b4c945ef-ad23-4002-a4b5-2ec4f24268c9"
 					(reference "#PWR06")
 					(unit 1)
