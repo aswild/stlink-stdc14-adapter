@@ -66,7 +66,7 @@
           "pad_connection": 1,
           "remove_islands": 0,
           "thermal_relief_gap": 0.254,
-          "thermal_relief_spoke_width": 0.5
+          "thermal_relief_spoke_width": 0.4
         }
       },
       "diff_pair_dimensions": [
@@ -76,7 +76,20 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|118674937|87630000|6380e578-d379-49e9-914b-c034b0ed3d81|00000000-0000-0000-0000-000000000000",
+          "Updated silkscreen"
+        ],
+        [
+          "lib_footprint_mismatch|119380000|105410000|f0c5e6d0-0ed5-4817-8b46-e0221cade6c1|00000000-0000-0000-0000-000000000000",
+          "Updated silkscreen"
+        ],
+        [
+          "lib_footprint_mismatch|133858000|95250000|34b98aa1-a96e-4d61-a370-56398b1cc03b|00000000-0000-0000-0000-000000000000",
+          "Updated silkscreen"
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -247,7 +260,7 @@
         },
         {
           "diameter": 0.8,
-          "drill": 0.4
+          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false
