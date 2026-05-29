@@ -208,7 +208,7 @@
 			(at 1.27 -6.1 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "9b31c4dc-6cd1-4e40-806f-775b9ece000f")
+			(uuid "8699cc14-05ff-4802-8718-e52ff7efb50c")
 			(effects
 				(font
 					(size 1 1)
@@ -219,7 +219,7 @@
 		(property "Value" "Conn_ARM_JTAG_SWD_20"
 			(at 1.27 28.96 180)
 			(layer "F.Fab")
-			(uuid "fce43b4b-bf6d-4375-b5e9-f9d54e6e53c6")
+			(uuid "7223cc53-9328-43f4-97bd-7204769f7b90")
 			(effects
 				(font
 					(size 1 1)
@@ -231,7 +231,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6a49936d-d04d-44b3-a89a-dc08503c6afa")
+			(uuid "14bb5d05-78db-410d-bbe4-2040ecbdb4cf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -242,7 +242,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "88da375f-80e5-4291-89aa-bf4a4ad5d237")
+			(uuid "1b31dade-99ee-4066-8ea7-e861e49a6f6e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -261,8 +261,8 @@
 				)
 			)
 		)
-		(property "Label" "ARM JTAG"
-			(at 1.524 -6.096 0)
+		(property "Label" "ARM \"JTAG\""
+			(at 1.27 -6.096 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b6be8666-48cf-45e8-86eb-9d8e5f4df33b")
@@ -830,7 +830,7 @@
 			(at 0.635 -1.745 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "af029b37-f983-4dda-94a5-ea862e078d89")
+			(uuid "906ad80d-2dcf-4f46-8cdb-54d83423a9c9")
 			(effects
 				(font
 					(size 1 1)
@@ -841,7 +841,7 @@
 		(property "Value" "Conn_ST_STDC14"
 			(at 0.635 9.365 0)
 			(layer "F.Fab")
-			(uuid "ace8967c-f1c9-4105-a25b-d98ac5544b8b")
+			(uuid "fdae781a-8a02-4256-b09f-1a1c1a74c55c")
 			(effects
 				(font
 					(size 1 1)
@@ -853,7 +853,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "91f4a4ad-6a26-47f0-871c-f721d018da1f")
+			(uuid "98a77417-aa78-4acb-adc4-0020de67d79b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -864,7 +864,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "19bed2b9-3485-4e61-a0fe-89ce49b58ca1")
+			(uuid "c66d3954-7cfa-4201-a62e-71244971076f")
 			(effects
 				(font
 					(size 1.27 1.27)
